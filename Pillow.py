@@ -53,33 +53,3 @@ img1_copy.paste(img2, (100, 100))
 img1_copy.save(r"C:\Users\nadaa\Python  Project\Courses\Image Processing Spyder\copy_img.jpg")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
